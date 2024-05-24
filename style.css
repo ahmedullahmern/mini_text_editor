@@ -1,0 +1,55 @@
+h1{
+    color: darkcyan;
+    font-family:"Lugrasimo", cursive ;
+}
+
+.sel{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.opsel{
+    font-size:20px;
+    border: 3px solid black;
+    padding: 5px 10px;
+}
+
+.bol_il_un>button{
+    padding: 5px  10px;
+    margin-left: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: darkcyan;
+    margin-bottom: 10px;
+}
+.ri_lef_cen>button{
+    padding: 5px  10px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: darkcyan;
+}
+
+.incolour>input{
+    margin-top: 30px;
+    width: 90px;
+    height: 40px;
+}
+
+.para{
+    width: 90%;
+    height: 300px;
+    font-size: 50px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.main{
+    margin-top: 50px;
+}
